@@ -40,12 +40,12 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 ---
 <h3 align="left">My CP Handles:</h3>
 <p align="left">
-  <a href="https://codeforces.com/profile/tejas_mishr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tushar_104" height="30" width="40" /></a>
-<!--   <a href="https://www.codechef.com/users/tushar_104" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tushar_104" height="30" width="40" /></a> -->
-  <a href="https://www.hackerrank.com/tejasmishr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tusharkesarwani1" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/tejas_mishr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tushar_104" height="30" width="40" /></a>
-<!--   <a href="https://www.hackerearth.com/@tusharkesarwani44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="tusharkesarwani44" height="30" width="40" /></a> -->
-<!--   <a href="https://auth.geeksforgeeks.org/user/tusharkesarwani44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tusharkesarwani44" height="30" width="40" /></a> -->
+  <a href="https://codeforces.com/profile/tejas_mishr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tejas_mishr" height="30" width="40" /></a>
+<!--   <a href="https://www.codechef.com/users/tejas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tejas height="30" width="40" /></a> -->
+  <a href="https://www.hackerrank.com/tejasmishr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tejas_mishr" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/tejas_mishr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tejas_mishr" height="30" width="40" /></a>
+<!--   <a href="https://www.hackerearth.com/tejas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="tejas" height="30" width="40" /></a> -->
+<!--   <a href="https://auth.geeksforgeeks.org/user/username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tejas" height="30" width="40" /></a> -->
 </p>
 <br/>
 ### :hammer_and_wrench: Languages and Tools :
@@ -79,4 +79,24 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejasmishr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/tejasmishr/MMMUTRESO"><b>MMMUT RESOURCES HUB</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=295&color=343b41?color=blue"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=508&color=343b41?color=blue"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/tejasmishr/e-shop"><b>E-Shop</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=7&color=343b41?color=blue"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=6&color=343b41?color=blue"/></td>
+    </tr>
+  </tbody>
+</table>
