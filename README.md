@@ -28,7 +28,7 @@
 
 I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TusharKesarwani&label=Profile%20views&color=0e75b6&style=flat" alt="TusharKesarwani" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tejasmishr&label=Profile%20views&color=0e75b6&style=flat" alt="Tejas Mishr" /> </p>
 
 - :telescope: I’m contributing to frontend and backend for building web applications.
 
