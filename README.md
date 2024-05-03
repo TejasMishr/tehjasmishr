@@ -32,13 +32,6 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejasmishr&label=Profile%20views&color=0e75b6&style=flat" alt="Tejas Mishr" /> </p>
 
-- :telescope: I’m contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- 
 ---
 
 # 💻 Tech Stack:
